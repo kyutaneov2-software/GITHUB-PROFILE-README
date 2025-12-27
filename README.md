@@ -34,7 +34,7 @@ A student-focused finance tracking web application.
 
 **Tech:** Python • Flask • SQLite
 
-📂 Repository: *(pin this project)*
+📂 Repository: *(soon)*
 
 ---
 
